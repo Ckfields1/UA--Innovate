@@ -35,7 +35,8 @@ We designed a healthcare data-management prototype with the following security f
 
 - [View the presentation](presentation/UA-Innovate-Presentation.pptx)
 - [View the sponsor challenge](challenge/Sponsor-Prompt.pdf)
-- [Watch the prototype demonstration]()
+- [Watch the prototype demonstration](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4e1ba0b-ec14-4cae-bce3-e8435cd5aa58" />
+)
 
 ## My Contribution
 
